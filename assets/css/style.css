@@ -103,11 +103,6 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -142,6 +137,11 @@ p {
     position: relative;
     bottom: 65px;
     max-height: 200px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -213,4 +213,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
