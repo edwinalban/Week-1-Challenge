@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-This project can be used to practice positioning elements on a webpage. As you can see from the screen shotes below, the image in the Online Reputation Management section overlaps the heading when the window is resized smaller. Adjustments are needed.
+This project can be used to practice positioning elements on a webpage. As you can see from the screen shots below, the image in the Online Reputation Management section overlaps the heading when the window is resized smaller. Adjustments are needed.
 
 
 ![alt text](assets/images/No-Overlap.png)
