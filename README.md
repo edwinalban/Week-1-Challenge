@@ -2,9 +2,11 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I built this project in an effort to practice and improve my skills as a developer. This project is focused on HTML and CSS semantic stucture and flow, particulary with regard to positioning elements. Overall, I have learned that I have much to learn. The project is currently under construction, as improvements are still necessary.
 
-I built this project in an effort to practice and improve my skills as a developer. Overall, I have learned that I have much to learn. The project is currently under construction, as improvements are still necessary.
+This project can be found here: 
+
+https://edwinalban.github.io/Week-1-Challenge/
 
 ## Installation
 
